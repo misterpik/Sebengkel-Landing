@@ -56,7 +56,7 @@ export default function BenefitsSection() {
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
             Mengapa Memilih{" "}
             <span className="bg-gradient-to-r from-blue-600 to-blue-700 bg-clip-text text-transparent">
-              BengkelPro?
+              Sebengkel?
             </span>
           </h2>
           <p className="text-lg text-gray-600">
@@ -104,7 +104,7 @@ export default function BenefitsSection() {
                 </svg>
               </div>
               <p className="text-xl md:text-2xl font-medium mb-6 leading-relaxed">
-                "Sejak pakai BengkelPro, administrasi bengkel jadi jauh lebih
+                "Sejak pakai Sebengkel, administrasi bengkel jadi jauh lebih
                 rapi. Omzet naik 35% dalam 3 bulan karena bisa fokus ke
                 pelayanan pelanggan. Highly recommended!"
               </p>

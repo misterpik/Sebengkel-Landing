@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="bg-gradient-to-br from-blue-600 to-blue-700 p-2 rounded-lg">
                 <Wrench className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">BengkelPro</span>
+              <span className="text-xl font-bold text-white">Sebengkel</span>
             </div>
             <p className="text-gray-400 leading-relaxed mb-4">
               Solusi manajemen bengkel motor terpercaya untuk meningkatkan
@@ -100,10 +100,10 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-blue-400 flex-shrink-0 mt-0.5" />
                 <a
-                  href="mailto:info@bengkelpro.id"
+                  href="mailto:info@sebengkel.id"
                   className="hover:text-blue-400 transition-colors"
                 >
-                  info@bengkelpro.id
+                  info@sebengkel.id
                 </a>
               </li>
               <li className="flex items-start gap-3">
@@ -131,7 +131,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © 2024 BengkelPro. All rights reserved.
+              © 2024 Sebengkel. All rights reserved.
             </p>
             <div className="flex gap-6 text-sm">
               <a href="#" className="hover:text-blue-400 transition-colors">
